@@ -1,0 +1,6 @@
+{
+  "name": "Sprite Station",
+  "description": "Tactical command center floor with 10-agent 64-bit HD crew, cyan holotable ops mux, and tactical dossiers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
